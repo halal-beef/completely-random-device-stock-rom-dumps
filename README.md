@@ -30,4 +30,4 @@
 - Build Type (Android) ```user```
 - Build Type (Reported From Bootloader) ```SHIP```
 
-[EE Harrier Mini Stock ROM](https://github.com/halal-beef/releases/tags/harrier-mini)
+[EE Harrier Mini Stock ROM]([https://github.com/halal-beef/releases/tags/harrier-mini](https://github.com/halal-beef/completely-random-device-stock-rom-dumps/releases/tag/harrier-mini))
