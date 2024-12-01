@@ -18,7 +18,7 @@
 
 | Top                                  | Bottom                               |
 | ------------------------------------ | ------------------------------------ |
-| <img src="https://github.com/halal-beef/completely-random-device-stock-rom-dumps/Resources/Device-Pictures/harriet-pic-1.png" width="350">                                  | <img src="https://github.com/halal-beef/completely-random-device-stock-rom-dumps/Resources/Device-Pictures/harriet-pic-2.png" width="350">                  |
+| <img src="https://github.com/halal-beef/completely-random-device-stock-rom-dumps/blob/main/Resources/Device-Pictures/harriet-pic-1.png" width="350">                                  | <img src="https://github.com/halal-beef/completely-random-device-stock-rom-dumps/blob/main/Resources/Device-Pictures/harriet-pic-2.png" width="350">                  |
 
 #### ROM Information
 
