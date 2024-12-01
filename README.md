@@ -10,17 +10,17 @@
 - Storage ```8GB EMMC, Unknown manufacturer and EMMC version```
 - Latest Firmware ```N/A```
 
-#### Device Quirks
+###### Device Quirks
 
 - It's unfused
 
-#### Device Pictures
+###### Device Pictures
 
 | Top                                  | Bottom                               |
 | ------------------------------------ | ------------------------------------ |
 | <img src="https://github.com/halal-beef/completely-random-device-stock-rom-dumps/blob/main/Resources/Device-Pictures/harriet-pic-1.png" width="350">                                  | <img src="https://github.com/halal-beef/completely-random-device-stock-rom-dumps/blob/main/Resources/Device-Pictures/harriet-pic-2.png" width="350">                  |
 
-#### ROM Information
+###### ROM Information
 
 - Android Version ```5.1.1```
 - Baseband Version ```GT47B1A_v02.027.01.g_02```
