@@ -30,4 +30,16 @@
 - Build Type (Android) ```user```
 - Build Type (Reported From Bootloader) ```SHIP```
 
-[EE Harrier Mini Stock ROM](https://github.com/halal-beef/completely-random-device-stock-rom-dumps/releases/tag/harrier-mini)
+[EE Harrier Mini Stock ROM (Android 5.1.1)](https://github.com/halal-beef/completely-random-device-stock-rom-dumps/releases/tag/harrier-mini)
+
+###### ROM Information
+
+- Android Version ```5.0.2```
+- Baseband Version ```GT47B1A_v01.012.02.g_02```
+- Kernel Version ```3.10.49```
+- Build Number ```57427```
+- Product Name/Code Name ```T47```
+- Build Type (Android) ```user```
+- Build Type (Reported From Bootloader) ```SHIP```
+
+[EE Harrier Mini Stock ROM (Android 5.0.2)](https://github.com/halal-beef/completely-random-device-stock-rom-dumps/releases/tag/harrier-mini-502)
